@@ -5,7 +5,8 @@
   <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taeyong-sung&theme=dark&hide_border=false&count_private=true" /></a>
   <hr>
   <h2>Who am I?</h2>
-  <h4> Update </h3>
+  <h4>  
+After working as a customer service representative or service technician, I went through a rigorous boot camp to refine my full stack development skills before switching to software engineering. I am prepared to take on challenging projects and work well with teams because of my experience in problem-solving, communication, and teamwork as well as my love for web development. I can hardly wait to use my abilities to develop web-based applications with purpose.</h4>
   <hr>
   <div>
     <h3>Connect with me:</h3>
