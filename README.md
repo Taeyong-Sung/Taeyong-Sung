@@ -1,5 +1,4 @@
 <div align="center">
-  <img align="center" src="">
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=taeyong-sung&theme=dark&show_icons=true&hide_border=false&count_private=true&hide=stars,issues&hide_rank=true&line_height=30" /></a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeyong-sung&layout=compact&card_width=325px&theme=dark&count_private=true" /></a>
   <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taeyong-sung&theme=dark&hide_border=false&count_private=true" /></a>
